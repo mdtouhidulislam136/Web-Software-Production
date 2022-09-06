@@ -1,0 +1,12 @@
+This my another text file that i have created in develop branch, version 1.0.0
+
+Color of car:
+Black
+White
+Yello
+Pink 
+Green
+Indigo
+Model number: BMW 761
+Made in: Germany
+Car weight: 6 ton
